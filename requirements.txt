@@ -1,0 +1,3 @@
+requests==2.25.1        # For making HTTP requests to Shopify API
+psycopg2==2.9.1         # PostgreSQL database adapter for Python
+python-dotenv==0.19.1   # For loading environment variables from .env file
